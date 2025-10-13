@@ -16,11 +16,11 @@
 
 ## 📊 At a Glance
 
-| 項目 | 數據 |
-|---|---|
-| 🗂️ **GitHub Repositories** | 90+ |
-| 💼 **獨立接案項目** | 10+ |
-| ✅ **專案完成度** | 95% |
+<p align="left">
+  <img src="https://img.shields.io/badge/GitHub_Repositories-90+-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repositories"/>
+  <img src="https://img.shields.io/badge/獨立接案項目-10+-2088FF?style=for-the-badge&logo=handshake&logoColor=white" alt="Projects"/>
+  <img src="https://img.shields.io/badge/專案完成度-95%25-00C853?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Completion Rate"/>
+</p>
 
 <br>
 
