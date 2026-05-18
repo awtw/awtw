@@ -6,9 +6,9 @@
 
 *專注於 Vue 3 與 Next.js 的前端開發，並擅長以 .NET Core / Python / Node.js 打造後端服務；搭配 TypeScript 與現代工程化實踐，致力於打造高效能、易維護的企業級系統*
 
-[![Email](https://img.shields.io/badge/Email-shuyan.dev%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shuyan.dev@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-awtw-181717?style=flat-square&logo=github)](https://github.com/awtw)
 [![Portfolio](https://img.shields.io/badge/Portfolio-AUG+-000000?style=flat-square&logo=vercel&logoColor=white)](https://resume.2025.8plus.app/)
+[![Booking](https://img.shields.io/badge/預約對談-15%E2%80%93min-0069ff?style=flat-square&logo=googlecalendar&logoColor=white)](https://cal.com/august-wang-pnfutu/15min)
 [![Behance](https://img.shields.io/badge/Behance-Portfolio-1769FF?style=flat-square&logo=behance&logoColor=white)](https://www.behance.net/alex012332fd01)
 
 </div>
@@ -40,9 +40,10 @@
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/完整履歷與作品集-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://resume.2025.8plus.app/)
+[![Booking](https://img.shields.io/badge/預約對談-15%E2%80%93min-0069ff?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://cal.com/august-wang-pnfutu/15min)
 [![Behance](https://img.shields.io/badge/Behance作品集-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/alex012332fd01)
 
-**📧 聯繫我**: [shuyan.dev@gmail.com](mailto:shuyan.dev@gmail.com)
+**聯繫方式**：僅透過 [Cal.com 預約 15 分鐘對談](https://cal.com/august-wang-pnfutu/15min) 聯絡；亦可先瀏覽 [個人網站／履歷](https://resume.2025.8plus.app/)。
 
 </div>
 
@@ -430,21 +431,22 @@ HTML/CSS/JavaScript → PHP → Angular → React → Vue → Express.js
 
 ## 📬 聯繫方式
 
-### 💬 Let's Connect
+### 💬 [Let's Connect — Cal.com 預約](https://cal.com/august-wang-pnfutu/15min)
 
 <div align="center">
 
-**有任何問題或合作需求，歡迎隨時聯繫我！**  
+**[預約 15 分鐘對談 →](https://cal.com/august-wang-pnfutu/15min)**（Cal.com）
+
+有任何問題或合作需求，請透過上方連結預約時段。  
 我很樂意討論技術、分享經驗，或是探討合作機會。
 
 </div>
 
 <div align="center">
 
-**📧 Email**: [shuyan.dev@gmail.com](mailto:shuyan.dev@gmail.com)
-
 [![GitHub](https://img.shields.io/badge/GitHub-awtw-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/awtw)
 [![Portfolio](https://img.shields.io/badge/Portfolio-AUG+-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://resume.2025.8plus.app/)
+[![Booking](https://img.shields.io/badge/預約對談-15%E2%80%93min-0069ff?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://cal.com/august-wang-pnfutu/15min)
 [![Behance](https://img.shields.io/badge/Behance-Portfolio-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/alex012332fd01)
 
 </div>
